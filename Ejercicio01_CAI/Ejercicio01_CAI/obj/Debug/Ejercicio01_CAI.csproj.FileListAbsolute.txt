@@ -8,3 +8,5 @@ C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CA
 C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.exe
 C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.pdb
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.FormAlumnos.resources
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.FormEmpleados.resources

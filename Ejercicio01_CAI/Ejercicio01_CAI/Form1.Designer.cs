@@ -28,46 +28,67 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.txtNombre = new System.Windows.Forms.TextBox();
+            this.lblUsuario = new System.Windows.Forms.Label();
+            this.txtUsuario = new System.Windows.Forms.TextBox();
             this.btnSaludar = new System.Windows.Forms.Button();
+            this.lblPassword = new System.Windows.Forms.Label();
+            this.txtPassword = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
-            // label1
+            // lblUsuario
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(66, 47);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Nombre";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.lblUsuario.AutoSize = true;
+            this.lblUsuario.Location = new System.Drawing.Point(97, 91);
+            this.lblUsuario.Name = "lblUsuario";
+            this.lblUsuario.Size = new System.Drawing.Size(43, 13);
+            this.lblUsuario.TabIndex = 0;
+            this.lblUsuario.Text = "Usuario";
+            this.lblUsuario.Click += new System.EventHandler(this.label1_Click);
             // 
-            // txtNombre
+            // txtUsuario
             // 
-            this.txtNombre.Location = new System.Drawing.Point(69, 63);
-            this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(100, 20);
-            this.txtNombre.TabIndex = 1;
+            this.txtUsuario.Location = new System.Drawing.Point(161, 88);
+            this.txtUsuario.Name = "txtUsuario";
+            this.txtUsuario.Size = new System.Drawing.Size(100, 20);
+            this.txtUsuario.TabIndex = 1;
+            this.txtUsuario.TextChanged += new System.EventHandler(this.txtUsuario_TextChanged);
             // 
             // btnSaludar
             // 
-            this.btnSaludar.Location = new System.Drawing.Point(329, 279);
+            this.btnSaludar.Location = new System.Drawing.Point(296, 235);
             this.btnSaludar.Name = "btnSaludar";
             this.btnSaludar.Size = new System.Drawing.Size(75, 23);
             this.btnSaludar.TabIndex = 2;
-            this.btnSaludar.Text = "Saludar";
+            this.btnSaludar.Text = "Ingresar";
             this.btnSaludar.UseVisualStyleBackColor = true;
             this.btnSaludar.Click += new System.EventHandler(this.btnSaludar_Click);
+            // 
+            // lblPassword
+            // 
+            this.lblPassword.AutoSize = true;
+            this.lblPassword.Location = new System.Drawing.Point(97, 145);
+            this.lblPassword.Name = "lblPassword";
+            this.lblPassword.Size = new System.Drawing.Size(61, 13);
+            this.lblPassword.TabIndex = 3;
+            this.lblPassword.Text = "Contraseña";
+            // 
+            // txtPassword
+            // 
+            this.txtPassword.Location = new System.Drawing.Point(161, 142);
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Size = new System.Drawing.Size(100, 20);
+            this.txtPassword.TabIndex = 4;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.txtPassword);
+            this.Controls.Add(this.lblPassword);
             this.Controls.Add(this.btnSaludar);
-            this.Controls.Add(this.txtNombre);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.txtUsuario);
+            this.Controls.Add(this.lblUsuario);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -77,9 +98,11 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.Label lblUsuario;
+        private System.Windows.Forms.TextBox txtUsuario;
         private System.Windows.Forms.Button btnSaludar;
+        private System.Windows.Forms.Label lblPassword;
+        private System.Windows.Forms.TextBox txtPassword;
     }
 }
 

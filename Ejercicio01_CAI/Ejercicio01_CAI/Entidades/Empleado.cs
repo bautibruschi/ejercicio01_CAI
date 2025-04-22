@@ -28,6 +28,6 @@ namespace Ejercicio01_CAI.Entidades
 
         }
 
-        protected abstract string ListarEmpleados(bool listarConId);
+      
     }
 }
