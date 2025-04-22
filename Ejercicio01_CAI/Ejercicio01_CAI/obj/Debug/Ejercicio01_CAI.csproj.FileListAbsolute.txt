@@ -1,0 +1,10 @@
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\bin\Debug\Ejercicio01_CAI.exe.config
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\bin\Debug\Ejercicio01_CAI.exe
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\bin\Debug\Ejercicio01_CAI.pdb
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.Form1.resources
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.Properties.Resources.resources
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.exe
+C:\Users\usuario\Documents\GitHub\ejercicio01_CAI\Ejercicio01_CAI\Ejercicio01_CAI\obj\Debug\Ejercicio01_CAI.pdb
