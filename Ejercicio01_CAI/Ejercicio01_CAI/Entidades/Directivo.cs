@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ejercicio01_CAI.Entidades
 {
-    internal class Directivo
+    public class Directivo : Empleado
     {
+        
     }
 }

@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Ejercicio01_CAI.Entidades
 {
-    internal class Alumno
+    public class Alumno : Persona
     {
+        private int _codigo;
+
+        public int Codigo { get => _codigo; set => _codigo = value; }
+
+        protected override void GetCredencial()
+        {
+
+        }
     }
 }

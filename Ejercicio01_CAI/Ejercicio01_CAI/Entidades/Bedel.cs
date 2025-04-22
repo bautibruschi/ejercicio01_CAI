@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Ejercicio01_CAI.Entidades
 {
-    internal class Bedel
+    public class Bedel : Empleado
     {
+        private string _apodo;
+
+        public string Apodo { get => _apodo; set => _apodo = value; }
     }
 }
